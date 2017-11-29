@@ -30,7 +30,6 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 ########################################################################
 
 import rosegraphics as rg
-import math
 
 
 def main():
